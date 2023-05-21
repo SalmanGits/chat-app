@@ -1,8 +1,8 @@
 # Project Title
 
 Real Time Chat App
-
-
+## Firebase hosted url
+[https://chatapp-4a473.web.app]
 ## Endpoints
 
 ### GET /
